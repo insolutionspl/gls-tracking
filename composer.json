@@ -7,7 +7,7 @@
         {
             "name": "Daniel Bojdo",
             "email": "daniel.bojdo@web-it.eu"
-        },
+        }        
     ],
     "license": "MIT",
     "require": {
