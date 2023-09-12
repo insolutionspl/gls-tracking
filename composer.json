@@ -12,7 +12,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.3.3",
-        "webit/soap-api": "^2.0.3",
+        "webit/soap-api": "^3.0",
         "jms/serializer": "^3.0"
     },
     "require-dev": {
